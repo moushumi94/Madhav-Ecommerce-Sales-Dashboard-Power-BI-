@@ -1,7 +1,7 @@
 # Madhav Ecommerce Sales Dashboard (Power BI)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPOSITORY/main/Madhav%20Dashboard.png" width="100%">
+  <img src="https://github.com/moushumi94/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/blob/main/Screenshot%202026-05-14%20084007.png" width="100%">
 </p>
 
 ## 📌 Project Overview
